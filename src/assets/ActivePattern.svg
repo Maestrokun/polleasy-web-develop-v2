@@ -1,0 +1,22 @@
+<svg width="46" height="30" viewBox="0 0 46 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_11117_236896" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="18" width="30" height="30">
+<rect x="0.203125" y="47.8105" width="29.6468" height="29.6468" transform="rotate(-90 0.203125 47.8105)" fill="#FFBB9C"/>
+</mask>
+<g mask="url(#mask0_11117_236896)">
+<rect x="-5.06592" y="29.0684" width="1.34697" height="33.7176" transform="rotate(-45 -5.06592 29.0684)" fill="#D4F7DC"/>
+<rect x="-3.20386" y="27.0361" width="1.34697" height="33.7176" transform="rotate(-45 -3.20386 27.0361)" fill="#D4F7DC"/>
+<rect x="-4.23389" y="22.2588" width="1.34697" height="42.4096" transform="rotate(-45 -4.23389 22.2588)" fill="#D4F7DC"/>
+<rect x="-3.33423" y="19.2256" width="1.34697" height="44.2802" transform="rotate(-45 -3.33423 19.2256)" fill="#D4F7DC"/>
+<rect x="-1.32935" y="17.5225" width="1.34697" height="44.2802" transform="rotate(-45 -1.32935 17.5225)" fill="#D4F7DC"/>
+<rect x="0.203125" y="15.3076" width="1.34697" height="44.2802" transform="rotate(-45 0.203125 15.3076)" fill="#D4F7DC"/>
+<rect x="1.22607" y="12.5811" width="1.34697" height="44.2802" transform="rotate(-45 1.22607 12.5811)" fill="#D4F7DC"/>
+<rect x="2.93042" y="10.1953" width="1.34697" height="44.2802" transform="rotate(-45 2.93042 10.1953)" fill="#D4F7DC"/>
+<rect x="4.46289" y="8.15137" width="1.34697" height="44.2802" transform="rotate(-45 4.46289 8.15137)" fill="#D4F7DC"/>
+<rect x="6.6792" y="6.44727" width="1.34697" height="44.2802" transform="rotate(-45 6.6792 6.44727)" fill="#D4F7DC"/>
+<rect x="9.2334" y="4.91309" width="1.34697" height="44.2802" transform="rotate(-45 9.2334 4.91309)" fill="#D4F7DC"/>
+<rect x="11.2783" y="3.04004" width="1.34697" height="44.2802" transform="rotate(-45 11.2783 3.04004)" fill="#D4F7DC"/>
+</g>
+<rect x="45.3879" y="47.708" width="23.8538" height="23.8538" transform="rotate(-90 45.3879 47.708)" fill="#8BE9A0"/>
+<rect x="22.3862" y="23.8535" width="23.8538" height="23.8538" transform="rotate(-90 22.3862 23.8535)" fill="#8BE9A0"/>
+<circle cx="34.7309" cy="11.4312" r="3.645" transform="rotate(-90 34.7309 11.4312)" fill="white"/>
+</svg>

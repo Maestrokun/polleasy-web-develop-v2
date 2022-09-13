@@ -1,0 +1,21 @@
+<svg width="45" height="30" viewBox="0 0 45 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_11127_235199" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="18" width="30" height="30">
+<rect x="0.203125" y="47.8109" width="29.6468" height="29.6468" transform="rotate(-90 0.203125 47.8109)" fill="#FFBB9C"/>
+</mask>
+<g mask="url(#mask0_11127_235199)">
+<rect x="-5.06592" y="29.0685" width="1.34697" height="33.7176" transform="rotate(-45 -5.06592 29.0685)" fill="#FFEF8A"/>
+<rect x="-3.20386" y="27.0361" width="1.34697" height="33.7176" transform="rotate(-45 -3.20386 27.0361)" fill="#FFEF8A"/>
+<rect x="-4.23376" y="22.2593" width="1.34697" height="42.4096" transform="rotate(-45 -4.23376 22.2593)" fill="#FFEF8A"/>
+<rect x="-3.33435" y="19.2263" width="1.34697" height="44.2802" transform="rotate(-45 -3.33435 19.2263)" fill="#FFEF8A"/>
+<rect x="-1.32935" y="17.5226" width="1.34697" height="44.2802" transform="rotate(-45 -1.32935 17.5226)" fill="#FFEF8A"/>
+<rect x="0.203125" y="15.3074" width="1.34697" height="44.2802" transform="rotate(-45 0.203125 15.3074)" fill="#FFEF8A"/>
+<rect x="1.2262" y="12.5812" width="1.34697" height="44.2802" transform="rotate(-45 1.2262 12.5812)" fill="#FFEF8A"/>
+<rect x="2.93042" y="10.1959" width="1.34697" height="44.2802" transform="rotate(-45 2.93042 10.1959)" fill="#FFEF8A"/>
+<rect x="4.46289" y="8.15155" width="1.34697" height="44.2802" transform="rotate(-45 4.46289 8.15155)" fill="#FFEF8A"/>
+<rect x="6.67932" y="6.4472" width="1.34697" height="44.2802" transform="rotate(-45 6.67932 6.4472)" fill="#FFEF8A"/>
+<rect x="9.23352" y="4.91382" width="1.34697" height="44.2802" transform="rotate(-45 9.23352 4.91382)" fill="#FFEF8A"/>
+<rect x="11.2782" y="3.04004" width="1.34697" height="44.2802" transform="rotate(-45 11.2782 3.04004)" fill="#FFEF8A"/>
+</g>
+<rect x="22.3864" y="23.8538" width="23.8538" height="23.8538" transform="rotate(-90 22.3864 23.8538)" fill="#A6952B"/>
+<circle cx="34.7309" cy="11.4312" r="3.645" transform="rotate(-90 34.7309 11.4312)" fill="white"/>
+</svg>
